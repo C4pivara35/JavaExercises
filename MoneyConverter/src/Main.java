@@ -1,5 +1,5 @@
 public class Main {
-    
+
     public static void main(String[] args) {
         double salarioAnual = 70000;
         double primeiraFaixa = 9.70/100;
